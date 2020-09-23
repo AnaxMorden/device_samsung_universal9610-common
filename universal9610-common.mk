@@ -60,8 +60,7 @@ PRODUCT_PACKAGES += \
 
 # Recovery
 PRODUCT_PACKAGES += \
-    init.recovery.exynos9610.rc \
-    init.recovery.exynos9611.rc
+    init.recovery.exynos9610.rc
 
 # SamsungDoze
 PRODUCT_PACKAGES += \
